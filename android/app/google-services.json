@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218254960737",
+    "project_id": "boook-store-f5faa",
+    "storage_bucket": "boook-store-f5faa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218254960737:android:eb972ec23e40b70ed7a220",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project_2208e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40eP6VnuPS5wsl3mzYLMbIV0FnZFRLGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
